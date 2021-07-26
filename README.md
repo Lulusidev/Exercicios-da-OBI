@@ -18,7 +18,9 @@ Repositorio destinado a alocar arquivos de exercicios da OBI(OLIMPIADA BRASILEIR
 
 <!DOCTYPE html>
 <style>
- 
+ .links {
+ padding: 2rem;
+ }
  
 </style>
 <html>
