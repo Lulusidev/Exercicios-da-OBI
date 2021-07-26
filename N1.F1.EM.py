@@ -1,4 +1,4 @@
-M = input("Mensagem : ")
+M = input()
 L = M.count(":-)")
 C = M.count(":-(")
 
@@ -10,5 +10,3 @@ elif L == C :
 
 elif L < C :
 	print("chateado")
-
-
