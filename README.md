@@ -8,8 +8,8 @@ Repositorio destinado a alocar arquivos de exercicios da OBI(OLIMPIADA BRASILEIR
 
 - Nivel 2 - Fase 1
 
- N2.F1.AP.py -> https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/acelerador/
- N2.F1.CO.py -> https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/camisetas/
- N2.F1.IR.py -> https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/irmaos/
+  - N2.F1.AP.py -> https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/acelerador/
+  - N2.F1.CO.py -> https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/camisetas/
+  - N2.F1.IR.py -> https://olimpiada.ic.unicamp.br/pratique/p2/2020/f1/irmaos/
 
  Nivel 2 - Fase 2
