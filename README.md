@@ -1,8 +1,8 @@
 # Exercicios-da-OBI
 Repositorio destinado a alocar arquivos de exercicios da <a href = "https://olimpiada.ic.unicamp.br/">OBI(OLIMPIADA BRASILEIRA DE INFORMATICA)</a><br>
 Link's dos enunciados dos exercicos <a href = "#links">aqui</a><br>
-Todos os exercicios foram feitos usando python <img scr="https://user-images.githubusercontent.com/86597979/126932852-3ce1e346-72aa-47a7-bb0a-5a6364ff1bec.png)
-">
+Todos os exercicios foram feitos usando python 
+<img scr="https://user-images.githubusercontent.com/86597979/126932852-3ce1e346-72aa-47a7-bb0a-5a6364ff1bec.png)">alt = amo python</img>
 <!DOCTYPE html>
 <html>
   <body>
