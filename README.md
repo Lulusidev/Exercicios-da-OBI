@@ -15,11 +15,18 @@ Repositorio destinado a alocar arquivos de exercicios da OBI(OLIMPIADA BRASILEIR
 # Nivel 2 - Fase 2
 - N2.F2.FT.py -> https://olimpiada.ic.unicamp.br/pratique/p2/2020/f2/fotografia/
 
-//with html
+
 <!DOCTYPE html>
+<style>
+ 
+ 
+</style>
 <html>
   
   <body>
-    <a href = "https://olimpiada.ic.unicamp.br/pratique/p1/2020/f1/tesouro/">Exercicio N1.F1.DT.py<a/>
+   <h1>With Html</h1>
+    <div class = "links">
+     <a href = "https://olimpiada.ic.unicamp.br/pratique/p1/2020/f1/tesouro/">Exercicio N1.F1.DT.py<a/>
+    </div>
   </body>
 </html>
