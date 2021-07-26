@@ -1,10 +1,9 @@
 # Exercicios-da-OBI
 Repositorio destinado a alocar arquivos de exercicios da <a href = "https://olimpiada.ic.unicamp.br/">OBI(OLIMPIADA BRASILEIRA DE INFORMATICA)</a>
-
+link's dos enunciados dos exercicos <a href = "#links">aqui</a>
 <!DOCTYPE html>
 <html>
   <body>
-   <h1>With Html</h1>
     <div id = "links">
      <h2> Nivel 1 - Fase 1 </h2><br>
      <a href = "https://olimpiada.ic.unicamp.br/pratique/p1/2020/f1/tesouro/">Exercicio N1.F1.DT.py<a/><br>
